@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-<!--
-**sohyemin/sohyemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Static Badge](https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=tistory)](https://hyemso-dev.tistory.com/)
+
+
 
 Here are some ideas to get you started:
 
