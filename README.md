@@ -1,11 +1,11 @@
 <!-- 프로필 제목 -->
-<h1 align="center">👋 안녕하세요, 저는 혜민입니다!</h1>
+<h1 align="center">👋 안녕하세요!</h1>
 
 <!-- 소개글 -->
 <p align="center">
-  🌱 프론트엔드 & 백엔드 공부 중인 개발자입니다.<br>
-  🚀 React · Spring Boot · Docker · AWS에 관심이 있어요.<br>
-  ✨ 꾸준히 기록하고 성장하는 개발자가 되려 합니다.
+  🌱 프론트엔드 & 백엔드 공부 중인 신입 개발자<br>
+  🚀 React · Spring Boot · Docker · AWS<br>
+  ✨ 목표는 꾸준하게 기록하기!!! 
 </p>
 
 ---
